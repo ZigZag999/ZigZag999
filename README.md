@@ -14,6 +14,11 @@
    <a href="https://discordapp.com/users/927456208909111326">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+
+   <a href="http://medium.com/@crzag99999">
+    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=zigzag999" alt=""/>
