@@ -21,7 +21,7 @@
 <h1 align="center">
 About me:
 </h1>
-My name is Aleksandr. I am from Russia.
+My name is Aleksandr. I like cryptocurrencies and everything to do with them. I’m node operator, promote crypto projects.
 I am interested in learning more about development, to create their own at least a small project. I started to get acquainted by filling out information about myself in the repository. I hope I will succeed and will be an active user of github.
 
 
